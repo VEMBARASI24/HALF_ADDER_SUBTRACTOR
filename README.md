@@ -64,14 +64,15 @@ assign carry= ( a & b);
 endmodule
 ```
 ```
-module hs(a,b,difference,borrow);
+module EP3(a,b,difference,borrow);
 input a,b;
 output difference,borrow;
 assign difference= (a ^ b);
 assign borrow= ( ~a & b);
 endmodule
 ```
-```
+
+
 
 
 **RTL Schematic**
