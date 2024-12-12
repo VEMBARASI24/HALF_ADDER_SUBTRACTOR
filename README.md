@@ -34,6 +34,11 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![WhatsApp Image 2024-12-12 at 11 26 55 PM](https://github.com/user-attachments/assets/0988105a-5861-474e-bd0c-7d4c60bc51d9)HALF ADDER
+
+![WhatsApp Image 2024-12-12 at 11 26 54 PM](https://github.com/user-attachments/assets/e8833c46-b424-42d0-a8f2-3389e6ea847c)HALF SUBTRACTOR
+
+
 
 **Procedure**
 
@@ -56,6 +61,7 @@ Developed by:VEMBARASI.A.R
  RegisterNumber:24900729  */
 ```
 ```
+HALF ADDER:
 module EP3(a,b,sum,carry);
 input a,b;
 output sum,carry;
@@ -64,6 +70,7 @@ assign carry= ( a & b);
 endmodule
 ```
 ```
+HALF SUBTRACTOR:
 module EP3(a,b,difference,borrow);
 input a,b;
 output difference,borrow;
