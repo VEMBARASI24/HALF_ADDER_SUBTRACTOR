@@ -85,7 +85,8 @@ endmodule
 **RTL Schematic**
 
 HALF ADDER
-![Screenshot (86)](https://github.com/user-attachments/assets/0ad04bf0-87b6-44d9-b4d1-c729ef2eafed)
+![Screenshot (121)](https://github.com/user-attachments/assets/37eca01c-ec3c-476e-a9ad-e35afc238e90)
+
 
 HALF SUBTRACTOR
 ![Screenshot (88)](https://github.com/user-attachments/assets/47705a52-e0e1-4ded-8a8d-da0e44a50da4)
@@ -94,10 +95,12 @@ HALF SUBTRACTOR
 
 **Output/TIMING Waveform**
 HALF ADDER
-![Screenshot (87)](https://github.com/user-attachments/assets/a7f6b121-b0f3-4074-9f4a-bc680a28df90)
+![Screenshot (120)](https://github.com/user-attachments/assets/ed6e3b72-6331-4f22-92de-9b261d76dc6d)
+
 
 HALF SUBTRACTOR
-![Screenshot (89)](https://github.com/user-attachments/assets/fc9be8ca-e9b3-49a4-af94-772a9998f410)
+![Screenshot (119)](https://github.com/user-attachments/assets/c6a21eb4-d156-482d-b23e-34d516e575ae)
+
 
 
 
